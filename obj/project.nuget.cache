@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eRGLH094BDc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alarh\\Downloads\\ProyectoContabilidad\\Grupo19_Basica_GestionContable\\SistemaContable\\SistemaContable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alarh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

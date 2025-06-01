@@ -1,0 +1,11 @@
+[
+  {
+    "$type": "SistemaContable.Ingreso, SistemaContable",
+    "Tipo": "Ingreso",
+    "Numero": 1,
+    "Descripcion": "pago clientes",
+    "Monto": 2555.0,
+    "Fecha": "2025-06-01T12:36:48.7468581-05:00",
+    "AplicaIVA": true
+  }
+]

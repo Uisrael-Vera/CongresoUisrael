@@ -1,0 +1,48 @@
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.exe
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.deps.json
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.runtimeconfig.json
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.dll
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.pdb
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.dll
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\refint\SistemaContable.dll
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.pdb
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Universidad Israel\Proyecto\SistemaContable\obj\Debug\net8.0\ref\SistemaContable.dll
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.exe
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.deps.json
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.runtimeconfig.json
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.dll
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\bin\Debug\net8.0\SistemaContable.pdb
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfoInputs.cache
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfo.cs
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.dll
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\refint\SistemaContable.dll
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.pdb
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.genruntimeconfig.cache
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\ref\SistemaContable.dll
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.AssemblyReference.cache
+C:\Users\JoelLAP\Downloads\Proyecto\Proyecto\SistemaContable\obj\Debug\net8.0\SistemaC.BC380574.Up2Date
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\bin\Debug\net8.0\SistemaContable.exe
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\bin\Debug\net8.0\SistemaContable.deps.json
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\bin\Debug\net8.0\SistemaContable.runtimeconfig.json
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\bin\Debug\net8.0\SistemaContable.dll
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\bin\Debug\net8.0\SistemaContable.pdb
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.AssemblyReference.cache
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfoInputs.cache
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.AssemblyInfo.cs
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaC.BC380574.Up2Date
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.dll
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\refint\SistemaContable.dll
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.pdb
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\SistemaContable.genruntimeconfig.cache
+C:\Users\alarh\Downloads\ProyectoContabilidad\Grupo19_Basica_GestionContable\SistemaContable\obj\Debug\net8.0\ref\SistemaContable.dll
